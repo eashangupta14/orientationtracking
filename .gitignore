@@ -1,0 +1,3 @@
+# Ignore the Utils File
+utils.py
+*.npy
