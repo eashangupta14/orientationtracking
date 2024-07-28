@@ -1,6 +1,9 @@
 # Orientation Tracking and Paronama Generation
 
-This is the code for ECE 276A project 1.
+This is the code for ECE 276A project 1. In this project we implement a projected gradient descent algorithm to track the 3-D orientation of a rotating body using
+measurements from an inertial measurement unit (IMU) and use these orientation estimates, to generate a panoramic image by stitching camera images obtained by the rotating body.
+
+The repo does not contain the utils.py file. If required please reach out to me.
 
 ## Installation
 
