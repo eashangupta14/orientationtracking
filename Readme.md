@@ -5,6 +5,12 @@ measurements from an inertial measurement unit (IMU) and use these orientation e
 
 The repo does not contain the utils.py file. If required please reach out to me.
 
+<figure>
+  <img src="images/panimg.png" alt="Panaroma Test Example" style="width:1300px;"/>
+  <figcaption style="text-align: center;">Figure 1: Panaroma Image Test Result</figcaption>
+</figure>
+
+
 ## Installation
 
 Follow the steps for setting up the environment  required to run the code on Windows.
