@@ -1,9 +1,6 @@
 # Orientation Tracking and Paronama Generation
 
-This is the code for ECE 276A project 1. In this project we implement a projected gradient descent algorithm to track the 3-D orientation of a rotating body using
-measurements from an inertial measurement unit (IMU) and use these orientation estimates, to generate a panoramic image by stitching camera images obtained by the rotating body.
-
-The repo does not contain the utils.py file. If required please reach out to me.
+In this project we use the measurements from an inertial measurement unit (IMU) to track orientation generate a panoramic image by stitching camera images obtained by the rotating body.
 
 <figure>
   <img src="images/panimg.png" alt="Panaroma Test Example" style="width:1300px;"/>
